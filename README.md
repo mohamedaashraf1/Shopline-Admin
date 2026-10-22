@@ -93,7 +93,4 @@ This repository is a frontend concept. It does not process real payments or conn
 
 ## Author
 
-**Mohamed Ashraf** — Full-Stack Engineer
-
-- [GitHub](https://github.com/mohamedaashraf1)
-- [LinkedIn](https://linkedin.com/in/m0ohamed-ashraf)
+**Mohamed Ashraf** 
